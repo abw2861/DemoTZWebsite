@@ -1,0 +1,111 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald';
+}
+/**/
+header {
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: white;
+    font-weight: 200;
+    background: #2C3E50;
+}
+
+i {
+    margin-right: 8px;
+    color: #dc3545;
+}
+
+
+/*---BANNER---*/
+.banner{
+    background: white;
+}
+h1{
+    font-weight: 400;
+}
+.banner-text 
+{
+    color: black;
+    font-weight: 300;
+    font-size: larger;
+}
+
+#businessphoto {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+/*-----NAVIGATION BAR---------*/
+.nav-link{
+    font-weight: 600;
+    color: red;
+}
+
+nav:hover {
+    color: black;
+}
+
+.navbar
+{
+    padding: 0 !important;
+}
+.nav-item
+{
+    font-weight: 600;
+}
+.nav li a
+{
+    color: red;
+}
+.nav li a:hover
+{
+    color: black;
+}
+
+/*---BODY---*/
+h2
+{
+    color: white;
+}
+.serviceslist
+{
+   display: inline-block;
+   margin: 0 10px;
+}
+.services
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.servicessection
+{
+    background-color: #2C3E50;
+    color: white;
+}
+
+.carousel .carousel-item {
+    height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+footer {
+    background-color: #2C3E50;
+    color: white;
+
+}
